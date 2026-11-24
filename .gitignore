@@ -1,0 +1,12 @@
+# Build output
+.build/
+*.app
+AppIcon.iconset/
+
+# Local signing identity name (see README)
+.signing-identity
+
+# Local backups and macOS cruft
+backup_*/
+.DS_Store
+.swiftpm/
